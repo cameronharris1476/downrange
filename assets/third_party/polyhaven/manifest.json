@@ -1,0 +1,50 @@
+{
+  "textures": {
+    "concrete_floor_worn_001": {
+      "diff": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/concrete_floor_worn_001/concrete_floor_worn_001_diff_2k.jpg",
+      "nor": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/concrete_floor_worn_001/concrete_floor_worn_001_nor_gl_2k.jpg",
+      "rough": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/concrete_floor_worn_001/concrete_floor_worn_001_rough_2k.jpg"
+    },
+    "metal_plate": {
+      "diff": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/metal_plate/metal_plate_diff_2k.jpg",
+      "nor": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/metal_plate/metal_plate_nor_gl_2k.jpg",
+      "rough": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/metal_plate/metal_plate_rough_2k.jpg"
+    },
+    "coast_sand_01": {
+      "diff": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/coast_sand_01/coast_sand_01_diff_2k.jpg",
+      "nor": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/coast_sand_01/coast_sand_01_nor_gl_2k.jpg",
+      "rough": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/coast_sand_01/coast_sand_01_rough_2k.jpg"
+    },
+    "dry_ground_01": {
+      "diff": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/dry_ground_01/dry_ground_01_diff_2k.jpg",
+      "nor": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/dry_ground_01/dry_ground_01_nor_gl_2k.jpg",
+      "rough": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/dry_ground_01/dry_ground_01_rough_2k.jpg"
+    },
+    "rock_face": {
+      "diff": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rock_face/rock_face_diff_2k.jpg",
+      "nor": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rock_face/rock_face_nor_gl_2k.jpg",
+      "rough": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rock_face/rock_face_rough_2k.jpg"
+    },
+    "asphalt_01": {
+      "diff": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/asphalt_01/asphalt_01_diff_2k.jpg",
+      "nor": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/asphalt_01/asphalt_01_nor_gl_2k.jpg",
+      "rough": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/asphalt_01/asphalt_01_rough_2k.jpg"
+    },
+    "rusty_metal_02": {
+      "diff": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rusty_metal_02/rusty_metal_02_diff_2k.jpg",
+      "nor": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rusty_metal_02/rusty_metal_02_nor_gl_2k.jpg",
+      "rough": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rusty_metal_02/rusty_metal_02_rough_2k.jpg"
+    }
+  },
+  "models": {},
+  "hdri": {
+    "kloofendal_43d_clear_puresky": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/kloofendal_43d_clear_puresky_2k.hdr"
+  },
+  "fonts": {
+    "Barlow-Regular.ttf": "https://cdn.jsdelivr.net/fontsource/fonts/barlow@5.2.8/latin-400-normal.ttf",
+    "Barlow-Medium.ttf": "https://cdn.jsdelivr.net/fontsource/fonts/barlow@5.2.8/latin-500-normal.ttf",
+    "Barlow-SemiBold.ttf": "https://cdn.jsdelivr.net/fontsource/fonts/barlow@5.2.8/latin-600-normal.ttf",
+    "IBMPlexMono-Regular.ttf": "https://cdn.jsdelivr.net/fontsource/fonts/ibm-plex-mono@5.2.7/latin-400-normal.ttf",
+    "IBMPlexMono-Medium.ttf": "https://cdn.jsdelivr.net/fontsource/fonts/ibm-plex-mono@5.2.7/latin-500-normal.ttf"
+  }
+}
